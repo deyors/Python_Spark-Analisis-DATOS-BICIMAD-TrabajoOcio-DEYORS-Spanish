@@ -28,7 +28,7 @@ Con la ayuda de compañeros de la Universidad Complutense de Madrid
 - Se adjunta un GUIÓN-PRESENTACIÓN del trabajo donde se explica más 
 detalladamente el objetivo de esta y el procedimiento de los códigos
 
-- Este programa ha sido creado para visualizar el funcionamiento de varios protocolos de Programación Distribuida y puede ser manipulado con el objetivo de seguir aprendiendo. Se desaconseja la copia de este código con fines relacionados al plagio para aprobar examenes ni trabajos de ningún tipo.
+- Este programa ha sido creado para visualizar el funcionamiento de varios protocolos de Programación Paralela y puede ser manipulado con el objetivo de seguir aprendiendo. Se desaconseja la copia de este código con fines relacionados al plagio para aprobar examenes ni trabajos de ningún tipo.
 
 - Desde aquí se desaprueba la copia de cualquier tipo para conseguir méritos no propios, y clasificamos ese acto como algo dañino para el aprendizaje y la evolución del conocimiento. Por favor, aproveche este programa para entender mejor como funciona el mundo, no para empeorarlo.
 
