@@ -37,3 +37,5 @@ detalladamente el objetivo de esta y el procedimiento de los códigos
 *PRESENTACIÓN:*
 
 Puedes ver un vídeo introductorio sobre la inicialización correcta de este programa donde se demuestra que funciona accediendo al siguiente enlace:
+
+https://www.youtube.com/watch?v=hp1EGXW1bFA
